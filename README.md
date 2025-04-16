@@ -23,5 +23,13 @@ A Python script to download fully tagged tracks and albums from from kuwo.cn and
 - `tqdm`
 - `mutagen`
 
-I will work on adding a serach function next.
+I will work on adding a search function next.
 Any suggestions on what could be added, please let me know. :)
+
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/21551867-243c-4605-933d-0d28b48b922e" />
+
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/95a6476c-1730-4c2c-9791-84e4b4db0092" />
+
+
+
+
