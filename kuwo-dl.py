@@ -309,3 +309,4 @@ while loop == True:
             os.rename(localImgfile, f'covers/ - {sanitize_filename(album.replace(" (Explicit)","").replace(" [Explicit]",""))}.jpg')
         elif keep_album_art == False:
             os.remove(localImgfile)
+
