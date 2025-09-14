@@ -3,7 +3,7 @@
 A Python script to download fully tagged tracks and albums from from kuwo.cn and save the track metadata.
 
 ## Features
-
+- [NEW] Search for tracks to obtain a Track URL or Album URL without needing a VPN
 - Config menu is inside the python file at the top.
 - Download tracks or albums by providing a URL.
 
@@ -26,7 +26,9 @@ A Python script to download fully tagged tracks and albums from from kuwo.cn and
   
 Any suggestions on what could be added, please let me know. :)
 
-<img width="841" height="954" alt="image" src="https://github.com/user-attachments/assets/db3323ab-727d-42e2-8777-c50be07987ff" />
+<img width="813" height="1286" alt="image" src="https://github.com/user-attachments/assets/efea28c5-c53f-4d33-b06b-2f164547574a" />
+
+
 
 
 
